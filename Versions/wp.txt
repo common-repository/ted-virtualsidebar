@@ -1,0 +1,11 @@
+Ted-VirtualSidebar is a plugins wich will allow you to avoid using 'sidebar.php' in your themes, by the same way you will be able to have as many "virtual" sidebars as you need. You could, also, affect each sidebar to specific tmeplate source pages.
+I created this plugins because, since the day I began to use Widgets, never I use these famous 'sidebar.php' files.
+
+So this plugins will allow you to :
+
+   * Avoid 'sidebar.php' in your themes
+   * Having as many Sidebar you want
+   * Affect Sidebars to template source pages
+
+You will more details to install and to manage it on my own site :
+http://wp.tedac.fr/en/plugins/ted2_virtualsidebar_page/

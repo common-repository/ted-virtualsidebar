@@ -1,0 +1,45 @@
+# Translation of the WordPress plugin   by .
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/ted-virtualsidebar\n"
+"POT-Creation-Date: 2010-03-06 19:01+0000\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Ted-VirtualSidebar.php:114
+msgid "Number of sidebars :"
+msgstr "Nombre de sidebars :"
+
+#: Ted-VirtualSidebar.php:121
+msgid "Name of the sidebar No :"
+msgstr "Nom de la sidebar No :"
+
+#: Ted-VirtualSidebar.php:125
+msgid "Location of the sidebar No :"
+msgstr "Position de la sidebar No :"
+
+#: Ted-VirtualSidebar.php:128
+msgid "Before the LOOP"
+msgstr "Avant la boucle (Loop)"
+
+#: Ted-VirtualSidebar.php:129
+msgid "After the LOOP"
+msgstr "Apres la boucle (Loop)"
+
+#: Ted-VirtualSidebar.php:134
+msgid "On wich templates pages ?"
+msgstr "Sur quel fichies du theme ?"
+
+#: Ted-VirtualSidebar.php:146
+msgid "Save All"
+msgstr "Sauvegarder"
